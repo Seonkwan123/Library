@@ -1,5 +1,9 @@
 const Library = [];
 
-function addBookToLibrary () {
+function Book () {
     
+}
+
+function addBookToLibrary () {
+
 }
